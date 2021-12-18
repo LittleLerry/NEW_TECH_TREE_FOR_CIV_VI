@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Test_Civic_Icons -->
+<!-- Author: polaris_cheung -->
+<!-- DateCreated: 12/17/2021 11:20:44 PM -->
+<GameData>
+	<IconDefinitions>
+		<!--
+		<Row Name="ICON_CIVIC_DECONSTRUCTIVISM" Atlas="ICON_ATLAS_CIVICS" Index="7" />-->
+		<Row Name="ICON_TECH_CONTROLLED_NUCLEAR_FUSION" Index="3" Atlas="ICON_ATLAS_TECH_2"/>
+		<Row Name="ICON_TECH_CONTROLLED_NUCLEAR_FUSION_FOW" Index="3" Atlas="ICON_ATLAS_TECH_FOW_2"/>
+
+		<Row Name="ICON_TECH_HIGH_ENERGY_PHYSICS" Index="3" Atlas="ICON_ATLAS_TECH_2"/>
+		<Row Name="ICON_TECH_HIGH_ENERGY_PHYSICS_FOW" Index="3" Atlas="ICON_ATLAS_TECH_FOW_2"/>
+
+		<Row Name="ICON_TECH_EXOTIC_MATTER" Index="3" Atlas="ICON_ATLAS_TECH_2"/>
+		<Row Name="ICON_TECH_EXOTIC_MATTER_FOW" Index="3" Atlas="ICON_ATLAS_TECH_FOW_2"/>
+
+		<Row Name="ICON_TECH_SUB_SPACE_PHYSICS" Index="3" Atlas="ICON_ATLAS_TECH_2"/>
+		<Row Name="ICON_TECH_SUB_SPACE_PHYSICS_FOW" Index="3" Atlas="ICON_ATLAS_TECH_FOW_2"/>
+	</IconDefinitions>
+</GameData>

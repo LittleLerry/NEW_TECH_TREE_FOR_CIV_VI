@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Test_Civic_Text -->
+<!-- Author: polaris_cheung -->
+<!-- DateCreated: 12/17/2021 11:21:02 PM -->
+<GameData>
+	<LocalizedText>
+		<!--For DECONSTRUCTIVISM-->
+		<Row Tag="LOC_CIVIC_DECONSTRUCTIVISM_NAME" Language="en_us">
+			<Text>
+				Deconstructivism
+			</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DECONSTRUCTIVISM_DESCRIPTION" Language="en_us">
+			<Text>
+				This is deconstructivism.
+			</Text>
+		</Row>
+		<!--...............................................................-->
+		<Row Tag="LOC_TECH_CONTROLLED_NUCLEAR_FUSION_NAME" Language="en_us">
+			<Text>
+				Controlled Nuclear Fusion
+			</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CONTROLLED_NUCLEAR_FUSION_DESCRIPTION" Language="en_us">
+			<Text>
+				Energy won't be considered as a kind of limited resources any more.[NEWLINE]+4 [ICON_Production] production to the Mine improvement.+20% [ICON_Science] science in all cities.+20% [ICON_Production] production in all cities.
+			</Text>
+		</Row>
+		<!--...............................................................-->
+		<Row Tag="LOC_TECH_HIGH_ENERGY_PHYSICS_NAME" Language="en_us">
+			<Text>
+				High Energy Physics
+			</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HIGH_ENERGY_PHYSICS_DESCRIPTION" Language="en_us">
+			<Text>
+				We want to figure out the behaviour of those things in which is highly near the light speed.[NEWLINE] +20% [ICON_Science] science in all cities.+20% [ICON_Production] production in all cities.
+			</Text>
+		</Row>
+		<!--...............................................................-->
+		<Row Tag="LOC_TECH_EXOTIC_MATTER_NAME" Language="en_us">
+			<Text>
+				Exotic Matter
+			</Text>
+		</Row>
+		<Row Tag="LOC_TECH_EXOTIC_MATTER_DESCRIPTION" Language="en_us">
+			<Text>
+				Matters with negative mass or infinity denisty seems not only exist in our imagination. We required new math to handle them[NEWLINE]+20% [ICON_Science] science in all cities.+20% [ICON_Production] production in all cities.
+			</Text>
+		</Row>
+		<!--...............................................................-->
+		<Row Tag="LOC_TECH_SUB_SPACE_PHYSICS_NAME" Language="en_us">
+			<Text>
+				Sub Space Physics
+			</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SUB_SPACE_PHYSICS_DESCRIPTION" Language="en_us">
+			<Text>
+				Human beings are learning to control the space around them now.[NEWLINE]+20% [ICON_Science] science in all cities.+20% [ICON_Production] production in all cities.
+			</Text>
+		</Row>
+		<!--...............................................................-->
+		<Row Tag="LOC_TECH_ALCUBIERRE_DRIVE_NAME" Language="en_us">
+			<Text>
+				Alcubierre Drive
+			</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ALCUBIERRE_DRIVE_DESCRIPTION" Language="en_us">
+			<Text>
+				Nothing is impossible, even this powerful enginee driven faster than light.[NEWLINE]+20% [ICON_Science] science in all cities.+20% [ICON_Production] production in all cities.
+			</Text>
+		</Row>
+		
+	</LocalizedText>
+</GameData>
