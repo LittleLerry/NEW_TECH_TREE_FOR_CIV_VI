@@ -7,7 +7,7 @@
 	<!--All decleartion must be written here...........................-->
 	
 	<Types>
-		<!--Here comes the definition of civic/tech....................-->
+		<!--Here comes the definition of civic/tech................-->
 		<Row Type="CIVIC_DECONSTRUCTIVISM" Kind="KIND_CIVIC"/>
 		<Row Type="TECH_CONTROLLED_NUCLEAR_FUSION" Kind="KIND_TECH" />
 		<Row Type="TECH_HIGH_ENERGY_PHYSICS" Kind="KIND_TECH" />
@@ -104,15 +104,15 @@
 		All these techs extends the same modifier:
 		
 		ModifierID		=	MODIFIER_TECH_CONTROLLED_NUCLEAR_FUSION_SCIENCE
-		ModifierTyoe	=	MODIFIER_PLAYER_CITIES_ADJUST_CITY_YIELD_MODIFIER
+		ModifierTyoe		=	MODIFIER_PLAYER_CITIES_ADJUST_CITY_YIELD_MODIFIER
 		
 		with Production + 20% and Science + 20%:
 
 		
 		<Row Type="CIVIC_DECONSTRUCTIVISM" Kind="KIND_CIVIC"/>			========\\
-		<Row Type="TECH_CONTROLLED_NUCLEAR_FUSION" Kind="KIND_TECH" />	=========\\
+		<Row Type="TECH_CONTROLLED_NUCLEAR_FUSION" Kind="KIND_TECH" />		=========\\
 		<Row Type="TECH_HIGH_ENERGY_PHYSICS" Kind="KIND_TECH" />		==========\\___________________________________________________  
-		<Row Type="TECH_EXOTIC_MATTER" Kind="KIND_TECH" />				==========//____MODIFIER_TECH_CONTROLLED_NUCLEAR_FUSION_SCIENCE|
+		<Row Type="TECH_EXOTIC_MATTER" Kind="KIND_TECH" />			==========//__MODIFIER_TECH_CONTROLLED_NUCLEAR_FUSION_SCIENCE__
 		<Row Type="TECH_SUB_SPACE_PHYSICS" Kind="KIND_TECH" />			=========//
 		<Row Type="TECH_ALCUBIERRE_DRIVE" Kind="KIND_TECH" />			========//
 
